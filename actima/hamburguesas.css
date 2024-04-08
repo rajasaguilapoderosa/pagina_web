@@ -1,0 +1,88 @@
+a{
+    position: absolute;
+        top: -2%;
+        left: 1%;
+        display: block;
+        color: white;
+        font-size: 80px;
+        font-weight: 800;
+        margin-left: 27px;
+        transition: color 0.5 sease;
+        text-decoration: none;
+}
+h1{
+    color:#343539;
+    background-color:#9c9da0;
+    padding: 1em;
+    margin: 1ex;
+    text-decoration: underline;
+    text-transform:uppercase; 
+    text-align: center;
+}
+
+h2{
+    
+    color: #343539;
+    text-transform: capitalize;
+    padding: 0.5em;
+    margin: 1em;
+    text-align: center;
+}
+body{
+  color: black;
+  background: color 7px;;
+  padding: 15px;
+  margin: 10px;
+}
+
+table{
+    background-color: white;
+    color: #343539;
+    text-transform: capitalize;
+    padding: 0.5em;
+    margin: 1em;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://thumbs.gfycat.com/CarefulGivingAstarte-max-1mb.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    display:block;
+    margin:auto;
+    width: 50%;
+   height:400%;
+   left: 5;
+}
+p{
+    color:#141414;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight:normal;
+    padding: 1em;
+    margin: 2em;
+}
+li{
+    list-style-type: circle;
+    color:#E93D6D;
+    font-family: cursive;
+    font-size: large; 
+    font-weight:normal;
+}
+
+
+
+
+.down {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    grid-column: 10;
+    grid-row: 5;
+  
+}
+.fila{
+    float: left;
+}
